@@ -1,6 +1,6 @@
-# Startup - Responsive Business Website Template
+# Startup - CPM Insurance Website
 
-A modern, responsive, and customizable business website template built with HTML5, CSS3, and JavaScript. This template is ideal for startups, agencies, and small businesses looking to establish a professional online presence.
+A modern, responsive, and customizable CPMs website built with HTML5, CSS3, and JavaScript. 
 
 ## Features
 
@@ -12,9 +12,6 @@ A modern, responsive, and customizable business website template built with HTML
 - **Easy Customization:** Well-organized code and reusable components.
 - **Bootstrap 5:** Built on the latest Bootstrap framework for rapid development.
 
-## Demo
-
-View the original template demo: [Startup Website Template](https://htmlcodex.com/startup-website-template)
 
 ## Getting Started
 
@@ -73,12 +70,5 @@ CPM Website/
 - **Styles:** Modify `css/style.css` for custom styles.
 - **Scripts:** Add or update JavaScript in `js/main.js`.
 
-## Credits
 
-- **Template Author:** [HTML Codex](https://htmlcodex.com)
-- **Template License:** [HTML Codex License](https://htmlcodex.com/license)
-- **Original Template:** [Startup Website Template](https://htmlcodex.com/startup-website-template)
 
-## License
-
-This project is licensed under the terms described in the [HTML Codex License](https://htmlcodex.com/license). Please review the license before using this template for commercial purposes. 
